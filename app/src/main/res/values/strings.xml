@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Budget</string>
+
+
+    <string-array name="typeSpinner">
+        <item>Please Select</item>
+        <item>Income</item>
+        <item>Food</item>
+        <item>Others</item>
+    </string-array>
+
+</resources>
